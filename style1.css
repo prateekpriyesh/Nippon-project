@@ -1,0 +1,31 @@
+#logo {
+  display: inline-block;
+  margin: 15px;
+  float: left;
+  height: 88px;
+  width: auto; 
+  background-color: #0A448F;
+}
+.nav{
+	background-color: #0A448F;
+}
+
+#my-carousel-bg {
+background-color: black;
+}
+
+
+.slideimg1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 47%;
+}
+
+.slideimg2{
+	display: inline-block;
+	margin-left: 15%;
+	width: 13%;
+	padding: auto;
+}
